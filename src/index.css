@@ -1,0 +1,27 @@
+body {
+    background-color:slategray;
+}
+
+button {
+    margin: 10px;
+    color:white;
+    border-radius:5px;
+    cursor:pointer;
+    background-color:darkgrey;
+    border: 1px solid blueviolet;
+    padding: 10px;
+}
+
+section {
+    background-color:darkgrey;
+    padding:20px;
+    border-radius:10px;
+}
+
+h1 {
+    color:blueviolet;
+}
+
+h2, h3 {
+    color: white;
+}
